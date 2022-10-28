@@ -8,7 +8,7 @@ Käytetyt tekniikat / käyttöjärjestelmä:
 
 Käynnistys:
 
-* cd Koodihaaste/
+* cd Koodihaaste-main/
 * python -m venv env_name	
 * source env_name/bin/activate 
 * pip install -r requirements.txt 
