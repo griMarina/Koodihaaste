@@ -7,10 +7,11 @@ Käytetyt tekniikat / käyttöjärjestelmä:
 * Python, macOS-käyttöjärjestelmää 
 
 Käynnistys:
-	cd Koodihaaste/
-	python3 -m venv env_name	source env_name/bin/activate 
-	pip install -r requirements.txt 
-	python3 main.py
+* cd Koodihaaste-main/
+* python3 -m venv env_name	
+* source env_name/bin/activate 
+* pip install -r requirements.txt 
+* python3 main.py
 
 Ratkaisu:
 
